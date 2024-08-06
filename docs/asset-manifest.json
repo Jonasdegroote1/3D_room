@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/interactive-diorama-Jonasdegroote1/static/css/main.0acedbe3.css",
+    "main.js": "/interactive-diorama-Jonasdegroote1/static/js/main.fb01c679.js",
+    "static/media/bed.glb": "/interactive-diorama-Jonasdegroote1/static/media/bed.ad04baff2e5d1d88de89.glb",
+    "static/media/car.glb": "/interactive-diorama-Jonasdegroote1/static/media/car.8e7e018316f7248d6572.glb",
+    "static/media/monitor.glb": "/interactive-diorama-Jonasdegroote1/static/media/monitor.861818eb69399d6349f4.glb",
+    "static/media/chair.glb": "/interactive-diorama-Jonasdegroote1/static/media/chair.a361f70c3a258311f8e4.glb",
+    "static/media/loft.glb": "/interactive-diorama-Jonasdegroote1/static/media/loft.c9fab8b97e074ab1ed04.glb",
+    "static/media/books.glb": "/interactive-diorama-Jonasdegroote1/static/media/books.afe287720243e812fabc.glb",
+    "static/media/desk.glb": "/interactive-diorama-Jonasdegroote1/static/media/desk.b74c2827c20958501177.glb",
+    "static/media/minecraft-error-error.gif": "/interactive-diorama-Jonasdegroote1/static/media/minecraft-error-error.4cbff53fb31a55192d36.gif",
+    "static/media/octopus_animated.glb": "/interactive-diorama-Jonasdegroote1/static/media/octopus_animated.9c4c8ed34239cefd6ffb.glb",
+    "static/media/lamp.glb": "/interactive-diorama-Jonasdegroote1/static/media/lamp.b16a61e04a878d812b35.glb",
+    "static/media/poster.glb": "/interactive-diorama-Jonasdegroote1/static/media/poster.8663e0d2f2a89dc08cbd.glb",
+    "static/media/closet.glb": "/interactive-diorama-Jonasdegroote1/static/media/closet.4bfa90d31855ce17bd1e.glb",
+    "static/media/shutle.glb": "/interactive-diorama-Jonasdegroote1/static/media/shutle.f51acc0557612d9fedb7.glb",
+    "static/media/plant.glb": "/interactive-diorama-Jonasdegroote1/static/media/plant.ba8bbf0f6ceab9f9781e.glb",
+    "static/media/smallCloset.glb": "/interactive-diorama-Jonasdegroote1/static/media/smallCloset.93dd72a0bb9af9d52564.glb",
+    "static/media/smallClosetDoor.glb": "/interactive-diorama-Jonasdegroote1/static/media/smallClosetDoor.18232aef7e532aecbf0b.glb",
+    "static/media/closetdoor.glb": "/interactive-diorama-Jonasdegroote1/static/media/closetdoor.29ef94083f41c422df1a.glb",
+    "static/media/closetdoor2.glb": "/interactive-diorama-Jonasdegroote1/static/media/closetdoor2.428de168d6d63a891a6b.glb",
+    "static/media/wall.glb": "/interactive-diorama-Jonasdegroote1/static/media/wall.8722a039b72abe3eac22.glb",
+    "index.html": "/interactive-diorama-Jonasdegroote1/index.html",
+    "main.0acedbe3.css.map": "/interactive-diorama-Jonasdegroote1/static/css/main.0acedbe3.css.map",
+    "main.fb01c679.js.map": "/interactive-diorama-Jonasdegroote1/static/js/main.fb01c679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0acedbe3.css",
+    "static/js/main.fb01c679.js"
+  ]
+}
